@@ -36,6 +36,6 @@ Googleによる情報の取り扱いについては、[Googleのサービスを�
 
 ## 7. お問い合わせ
 
-本ポリシーおよび本アプリに関するお問い合わせは、以下のページからお願いします。
+本ポリシーおよび本アプリに関するお問い合わせは、以下のメールアドレスへお願いします。
 
-https://github.com/9kwkgtech0/sekigae-privacy/issues
+kwkg.tech@gmail.com
